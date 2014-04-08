@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [visionmedia/page.js](http://github.com/visionmedia/page.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/visionmedia-page.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
  ![page router logo](http://f.cl.ly/items/3i3n001d0s1Q031r2q1P/page.png)
 
   Tiny ~1200 byte Express-inspired client-side router.
